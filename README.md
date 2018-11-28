@@ -12,5 +12,11 @@ A note to contributors: please be aware that the list is intended for the broade
 
 Saying that, if you believe that certain indexes should be included on the list, feel free to attach your arguments for it. 
 
+Please bear in mind that indexes are not automatically updates. This means that:
+- The CAR index is only correct for the date it was calculated (as of now, this is December 2018).
+- The Distribution numbers are subject to changes
+- Initial price is calculated in USD not in BTC, just because it is simpler to grasp, although absolutely incorrect for accounting purposes 
+- Team / Docs / Community indexes are subject to always change 
+
 BR, <br>
 @serejandmyself
