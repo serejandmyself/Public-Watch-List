@@ -8,5 +8,9 @@ Under no circumstances, this information should be used as financial advise of a
 
 If you do not agree with the information provided.Or you wish to make changes to the file, add or delete information, or you think that you can contribute in any other way - please feel free to leave comments in the appropriate repository on GitHub.
 
+A note to contributors: please be aware that the list is intended for the broader public wishing to get a general hang around good crypro projects. Hence, I am specifically avoiding indexes that are based on deep technological understanding (i.e. hashrate, difficulty etc) or that require strong economical background (ratios, buying percentages etc) (inflation and deflation indexes are a subject for strong subjective discussion). 
+
+Saying that, if you believe that certain indexes should be included on the list, feel free to attach your arguments for it. 
+
 BR, <br>
 @serejandmyself
