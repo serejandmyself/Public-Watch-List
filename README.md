@@ -10,12 +10,11 @@ A note to contributors: please be aware that the list is intended for the broade
 
 If you believe that certain indexes should be included on the list, feel free to [open a discussion issue](https://github.com/serejandmyself/Public-Watch-List/issues) and attach your arguments for it.
 
-~Please bear in mind that indexes are not automatically updated. 
-This means that:
-- The CAR index is only correct for the date it was calculated (as of now, that is December 2018)
-- The Distribution numbers are subject to change
-- Initial price is calculated in USD not in BTC, just because it is simpler to grasp (more on that below), although absolutely incorrect for accounting purposes
-- Team / Docs / Community indexes are subject to, always, change~
+~Please bear in mind that indexes are not automatically updated.~ 
+- ~The CAR index is only correct for the date it was calculated (as of now, that is December 2018)~
+- ~The Distribution numbers are subject to change~
+- ~Initial price is calculated in USD not in BTC, just because it is simpler to grasp (more on that below), although absolutely incorrect for accounting purposes~
+- ~Team / Docs / Community indexes are subject to, always, change~
 
 ~The List itself, contains links to the following, for each separate project: website, white paper, GitHub, developer documentation, coinmarketcap (some assets are linked to otc trading), explorer, link to a social channel (mainly twitter). As much as I would not want to use CMC, it gives you a general insight to the state of the market, but please - do your own research about the price (and its essence) for each separate asset on the List.~
 
