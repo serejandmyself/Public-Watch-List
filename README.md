@@ -1,4 +1,4 @@
-# Public-Watch-List
+# Public Watch List
 
 The information provided on this List is free to use. Most of the information on the list is (probably) highly subjective, contains mistakes, misspells, biased opinions and other BS. 
 
