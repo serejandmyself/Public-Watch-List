@@ -31,10 +31,12 @@ P.S. I would appreciate it if you link to this repo in case you decide to copy a
 | Iris |
 | Solana |
 | Polkadot |
-| Cyberway |
+| Cyberway* |
 | Rchain |
 | Holo |
-| Blocknet |
+| Ava* |
+| Perlin* |
+| Blocknet* |
 | 0X | Finance |
 | Synthetics | 
 | Augur |
@@ -45,34 +47,36 @@ P.S. I would appreciate it if you link to this repo in case you decide to copy a
 | Aragon |
 | Kleros |
 | Filecoin | Internet |
-| NKN |
+| NKN* |
 | Maidsafe |
+| Sky* |
 | IOTA | IOT |
 | Helium |
 | Robonomics* |
+| Status | Socail |
+| Livepeer |
+| LBRY* |
+| Decentraland | VR / Gaming |
+| Loom |
+| Rocket Pool | ? |
+| Raiden |
+| QRL | Quantum R |
+| Nyzo* | ??
+| Ergo* |
+| Cyber | Search |
+| Urbit | IT |
+| District0x | Marketplace |
+| Everpedia | Knowledge |
+| Foam | Communication |
+| Sentninel | Privacy |
+| Cortex | AI |
+| NuCypher | Security |
+| Fund Request* | Developers |
 
 
 
-Status 
-Decentraland
-RocketPool
-Loom
-Livepeer
-Sky
-Raiden
-QRL
-Perlin
-Nyzo
-Ergo
-District0x
-Foam
-Sentinel
-Cortex 
-LBRY
-Fund Request
-Everpeidia 
-Cyber
-NuCypher
+
+
 
 
 
