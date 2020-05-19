@@ -4,7 +4,7 @@ The information provided on this List is free to use. Most of the information on
 
 Under no circumstances, this information should be used as financial advice of any kind or in any similar way. It is strictly for informational and \ or educational purposes. 
 
-The List contains a collection of interesting (open-source, blockchain) projects, games, development companies, consensuses (etc) that I believe are worth mentioning.
+The List contains a collection of interesting, open-source, blockchain projects that I believe are worth mentioning.
 
 If you wish to make changes to the file, add or delete a project, or think that you can contribute in any other way - please feel free to submit a [PR](https://github.com/serejandmyself/Public-Watch-List/pulls).
 
@@ -12,9 +12,66 @@ A note to contributors: please be aware that the list is intended for the broade
 
 P.S. I would appreciate it if you link to this repo in case you decide to copy any information or use it for any purposes that you might want to. I would highly appreciate it, if you star this repository.
 
+| Project | Link | Group | Class | Score |
+|---------|-------|-------|--------|--------|
+| Bitcoin | [Website](https://www.bitcoin.org/) | Money | Store of Value | 9/10 (Dumb PoW, Weak distribution) | 
+| Monero | Website | Anon Money | Store of value / Medium of exchnage | 9/10 (Dumb PoW) |
+| Nimiq | Website | Money | Medium of exchange | 6/10 |
 
 
-
+Ethereum
+Tezos
+Cardano
+Iota
+Cosmos
+0X
+Status
+Bytom 
+Holo
+Synthetix
+Augur
+Ren
+Decentraland
+Maidsafe
+Aragon
+Kusama
+Aeternity
+RocketPool
+Grin
+Loom
+Livepeer
+Blocknet
+NKN
+Heium
+Kleros
+Sky
+Iris
+Raiden
+QRL
+Perlin
+Solana
+Nyzo
+Melon
+Ergo
+District0x
+Foam
+Stealth
+Sentinel
+Cortex 
+LBRY
+Sib
+Zen Protocol
+Fund Request
+Rchain
+Everpeidia
+Cyberway
+Robonomics 
+Cyber
+Filecoin
+Polkadot
+NuCyphet
+Vertcoin
+Decred
 
 
 
