@@ -15,63 +15,65 @@ P.S. I would appreciate it if you link to this repo in case you decide to copy a
 | Project | Link | Group | Class | Score |
 |---------|-------|-------|--------|--------|
 | Bitcoin | [Website](https://www.bitcoin.org/) | Money | Store of Value | 9/10 (Dumb PoW, Weak distribution) | 
-| Monero | Website | Anon Money | Store of value / Medium of exchnage | 9/10 (Dumb PoW) |
+| Monero | Website | Anon. Money | Store of value / Medium of exchnage | 9/10 (Dumb PoW) |
 | Nimiq | Website | Money | Medium of exchange | 6/10 |
+| Grin |
+| Stealth |
+| Sib* |
+| Vertcoin |
+| Ethereum | Protocol |
+| Tezos |
+| Cardano |
+| Cosmos|
+| Bytom* |
+| Kusama |
+| Aeternity* |
+| Iris |
+| Solana |
+| Polkadot |
+| Cyberway |
+| Rchain |
+| Holo |
+| Blocknet |
+| 0X | Finance |
+| Synthetics | 
+| Augur |
+| Ren |
+| Melon |
+| Zen protocol |
+| Decred | Governace |
+| Aragon |
+| Kleros |
+| Filecoin | Internet |
+| NKN |
+| Maidsafe |
+| IOTA | IOT |
+| Helium |
+| Robonomics* |
 
 
-Ethereum
-Tezos
-Cardano
-Iota
-Cosmos
-0X
-Status
-Bytom 
-Holo
-Synthetix
-Augur
-Ren
+
+Status 
 Decentraland
-Maidsafe
-Aragon
-Kusama
-Aeternity
 RocketPool
-Grin
 Loom
 Livepeer
-Blocknet
-NKN
-Heium
-Kleros
 Sky
-Iris
 Raiden
 QRL
 Perlin
-Solana
 Nyzo
-Melon
 Ergo
 District0x
 Foam
-Stealth
 Sentinel
 Cortex 
 LBRY
-Sib
-Zen Protocol
 Fund Request
-Rchain
-Everpeidia
-Cyberway
-Robonomics 
+Everpeidia 
 Cyber
-Filecoin
-Polkadot
-NuCyphet
-Vertcoin
-Decred
+NuCypher
+
 
 
 
